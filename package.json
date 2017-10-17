@@ -1,0 +1,33 @@
+{
+  "name": "xlsxjs",
+  "version": "0.0.1",
+  "description": "simple nodejs xlsx package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./lib/workbook.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyiu/xlsxjs.git"
+  },
+  "keywords": [
+    "xlsx",
+    "excel"
+  ],
+  "author": "wu.weijie@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyiu/xlsxjs/issues"
+  },
+  "homepage": "https://github.com/keyiu/xlsxjs#readme",
+  "dependencies": {
+    "exceljs": "^0.6.2",
+    "moment": "^2.19.1",
+    "xlsx": "^0.11.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^4.0.1"
+  }
+}
