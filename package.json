@@ -22,6 +22,7 @@
   "homepage": "https://github.com/keyiu/xlsxjs#readme",
   "dependencies": {
     "exceljs": "^0.6.2",
+    "lodash": "^4.17.4",
     "moment": "^2.19.1",
     "xlsx": "^0.11.5"
   },
