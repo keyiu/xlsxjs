@@ -1,6 +1,6 @@
 {
   "name": "xlsxjs",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "simple nodejs xlsx package",
   "main": "index.js",
   "scripts": {
